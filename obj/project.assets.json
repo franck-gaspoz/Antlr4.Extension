@@ -222,11 +222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\Lib\\Antrl4.Extension\\Antrl4.Extension.csproj",
-      "projectName": "Antrl4.Extension",
-      "projectPath": "R:\\Lib\\Antrl4.Extension\\Antrl4.Extension.csproj",
+      "projectUniqueName": "R:\\Lib\\Antlr4.Extension\\Antlr4.Extension.csproj",
+      "projectName": "Antlr4.Extension",
+      "projectPath": "R:\\Lib\\Antlr4.Extension\\Antlr4.Extension.csproj",
       "packagesPath": "C:\\Users\\SESA436488\\.nuget\\packages\\",
-      "outputPath": "R:\\Lib\\Antrl4.Extension\\obj\\",
+      "outputPath": "R:\\Lib\\Antlr4.Extension\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
