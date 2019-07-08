@@ -10,11 +10,15 @@
     <PackageTags>Antrl4 C# CSharp .NET Standard extension lexer parser colorizer colorisation error listener and handling CST to AST Transformer component model</PackageTags>
     <PackageReleaseNotes>Extension classes for Antrl4 lexer and parser. Wraps a parser as a component. Integrates helpfull additional classes and methods
 Antrl4 C# CSharp .NET Standard extension lexer parser colorizer colorisation error listener and handling CST to AST Transformer component model</PackageReleaseNotes>
-    <PackageLicenseUrl>https://github.com/franck-gaspoz/Antlr4.Extension/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/franck-gaspoz/Antlr4.Extension/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/franck-gaspoz/Antlr4.Extension</PackageProjectUrl>
-    <PackageIconUrl>https://github.com/franck-gaspoz/Antlr4.Extension/blob/master/docs/antrl4_2.png</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/franck-gaspoz/Antlr4.Extension/master/docs/antrl4_2.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/franck-gaspoz/Antlr4.Extension</RepositoryUrl>
-    <RepositoryType>github</RepositoryType>
+    <RepositoryType>git</RepositoryType>
+    <PackageId>Antlr4Extension</PackageId>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
