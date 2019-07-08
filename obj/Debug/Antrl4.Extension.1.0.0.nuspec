@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Antrl4.Extension</id>
+    <version>1.0.0</version>
+    <authors>Franck Gaspoz</authors>
+    <owners>Franck Gaspoz</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension classes for Antrl4 lexer and parser. Wraps a parser as a component. Integrates helpfull additional classes and methods</description>
+    <releaseNotes>Extension classes for Antrl4 lexer and parser. Wraps a parser as a component. Integrates helpfull additional classes and methods
+Antrl4 C# CSharp .NET Standard extension lexer parser colorizer colorisation error listener and handling CST to AST Transformer component model</releaseNotes>
+    <copyright>(c) 2019 Franck Gaspoz</copyright>
+    <tags>Antrl4 C# CSharp .NET Standard extension lexer parser colorizer colorisation error listener and handling CST to AST Transformer component model</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Antlr4.Runtime" version="4.6.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="R:\Lib\Antrl4.Extension\bin\Debug\netstandard2.0\Antrl4.Extension.dll" target="lib\netstandard2.0\Antrl4.Extension.dll" />
+  </files>
+</package>

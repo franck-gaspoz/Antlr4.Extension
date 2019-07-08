@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Franck Gaspoz</Authors>
+    <Company>http://franckgaspoz.fr/en</Company>
+    <Description>Extension classes for Antrl4 lexer and parser. Wraps a parser as a component. Integrates helpfull additional classes and methods</Description>
+    <Copyright>(c) 2019 Franck Gaspoz</Copyright>
+    <PackageTags>Antrl4 C# CSharp .NET Standard extension lexer parser colorizer colorisation error listener and handling CST to AST Transformer component model</PackageTags>
+    <PackageReleaseNotes>Extension classes for Antrl4 lexer and parser. Wraps a parser as a component. Integrates helpfull additional classes and methods
+Antrl4 C# CSharp .NET Standard extension lexer parser colorizer colorisation error listener and handling CST to AST Transformer component model</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Antlr4.Runtime" Version="4.6.6" />
+  </ItemGroup>
+
+</Project>
