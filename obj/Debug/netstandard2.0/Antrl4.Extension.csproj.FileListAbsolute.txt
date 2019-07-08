@@ -1,9 +1,0 @@
-R:\Lib\Antrl4.Extension\bin\Debug\netstandard2.0\Antrl4.Extension.deps.json
-R:\Lib\Antrl4.Extension\bin\Debug\netstandard2.0\Antrl4.Extension.dll
-R:\Lib\Antrl4.Extension\bin\Debug\netstandard2.0\Antrl4.Extension.pdb
-R:\Lib\Antrl4.Extension\obj\Debug\netstandard2.0\Antrl4.Extension.csproj.CoreCompileInputs.cache
-R:\Lib\Antrl4.Extension\obj\Debug\netstandard2.0\Antrl4.Extension.AssemblyInfoInputs.cache
-R:\Lib\Antrl4.Extension\obj\Debug\netstandard2.0\Antrl4.Extension.AssemblyInfo.cs
-R:\Lib\Antrl4.Extension\obj\Debug\netstandard2.0\Antrl4.Extension.dll
-R:\Lib\Antrl4.Extension\obj\Debug\netstandard2.0\Antrl4.Extension.pdb
-R:\Lib\Antrl4.Extension\obj\Debug\netstandard2.0\Antrl4.Extension.csprojAssemblyReference.cache
